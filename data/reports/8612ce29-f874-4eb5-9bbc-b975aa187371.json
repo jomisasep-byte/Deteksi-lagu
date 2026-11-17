@@ -1,0 +1,30 @@
+{
+  "id": "8612ce29-f874-4eb5-9bbc-b975aa187371",
+  "filename": "uji_video_tanpa_audio.mp4",
+  "file_size": 8224,
+  "media_type": "video/mp4",
+  "duration_seconds": 8,
+  "duration_label": "00:00:08",
+  "has_audio_stream": false,
+  "audio_codec": null,
+  "sample_rate": null,
+  "channels": null,
+  "waveform_peaks": [],
+  "overall_status": "ABU-ABU",
+  "summary_reason": "File media tidak memiliki stream audio. Tidak ada musik yang dapat diekstrak; tetap jalankan YouTube Checks saat unggah.",
+  "recommendations": [
+    "Pastikan memang tidak ada jalur musik lain sebelum menggabungkan audio saat rendering final.",
+    "Unggah video sebagai Private atau Unlisted dan tunggu YouTube Checks selesai sebelum publikasi."
+  ],
+  "segments": [],
+  "youtube_checks": {
+    "uploaded_private_or_unlisted": false,
+    "waited_checks_complete": false,
+    "inspected_claim_details": false,
+    "verified_attribution_and_proof": false,
+    "final_youtube_result": "BELUM",
+    "notes": ""
+  },
+  "deep_analysis": null,
+  "created_at": "2026-11-17T17:11:26.981Z"
+}

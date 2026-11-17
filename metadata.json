@@ -1,0 +1,8 @@
+{
+  "name": "PraCek Musik",
+  "description": "Sistem pra-pemeriksaan musik dan audit lisensi untuk mendeteksi potensi risiko hak cipta sebelum mengunggah video ke YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
